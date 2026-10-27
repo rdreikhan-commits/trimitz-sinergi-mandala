@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+find_uploads.py
+inspect_imgs.py
+copy_real_imgs.py
+process_logo.py
+build_single.py
